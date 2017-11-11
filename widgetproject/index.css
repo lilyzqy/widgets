@@ -1,0 +1,26 @@
+html body main h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  color: inherit;
+  text-align: inherit;
+  text-decoration: inherit;
+  vertical-align: inherit;
+  box-sizing: inherit;
+  background: transparent;
+}
+
+.clock {
+  font-family: 'Barlow',sans-serif;
+  font-size: 48px;
+  padding: 20px;
+  background-color: #ced3db;
+  font-weight: bold;
+  color: white;
+  width: 400px;
+  border-radius: 10px;
+  text-align: center;
+  
+}
